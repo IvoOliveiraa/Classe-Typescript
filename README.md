@@ -1,2 +1,2 @@
-# Base-Typescript
- estudando conceitos do Typescript
+# Estudando classes em Typescript
+ estudando classes
